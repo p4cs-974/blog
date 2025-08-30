@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.p4cs.com.br/sitemap.xml
