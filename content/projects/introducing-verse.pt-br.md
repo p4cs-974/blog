@@ -15,27 +15,8 @@ Há muito tempo eu detesto usar programas cheios de _bloat_ para escrever – es
 E então veio o markdown.
 {{< /lead >}}
 
-Com a ascensão da IA nos últimos anos, o markdown inevitavelmente ganhou popularidade, já que é a "linguagem" em que as IAs nos respondem. Quando comecei a usá-lo, fiquei impressionado com sua simplicidade e eficácia. Para mim, ele lembrava o poder do HTML ou LaTeX, mas com uma curva de aprendizado muito mais suave e menor complexidade. Então, decidi adotá-lo como meu formato principal de escrita.T00:06:51-03:00'
-draft = false
-title = 'Apresentando, Verse'
-thumbnail = 'verseweb'
-+++
-
+Com a ascensão da IA nos últimos anos, o markdown inevitavelmente ganhou popularidade, já que é a "linguagem" em que as IAs nos respondem. Quando comecei a usá-lo, fiquei impressionado com sua simplicidade e eficácia. Para mim, ele lembrava o poder do HTML ou LaTeX, mas com uma curva de aprendizado muito mais suave e menor complexidade. Então, decidi adotá-lo como meu formato principal de escrita.
 # O que é o Verse?
-
-{{< figure src="/img/verseweb.png" alt="Verse Web App Screenshot" >}}
-
-Verse is a lightweight, local-first open source Markdown editor web app, built with objectivity and swiftness in mind. You can try it out at [verse.p4cs.com.br](https://verse.p4cs.com.br).
-
-# Why Markdown?
-
-I have long disliked using bloated applications for writing – I'm looking at you, Microsoft Word –, so for a long time I've been looking for alternatives that are simple, fast, and effortless to use.
-
-{{< lead >}}
-And then came markdown.
-{{< /lead >}}
-
-With the rise of AI in the last few years, markdown inevitably gained some popularity, since it's the "language" AI answers us in. When I first started using it, I was amazed by how simple and effective it was. To me, it reminded me of the power of HTML or LaTeX, but with a much gentler learning curve, and lower complexity. So, I decided to adopt it as my main writing format.
 
 # O problema
 
