@@ -71,6 +71,6 @@ And just around that time, I read PostHog's [article](https://newsletter.posthog
 
 The app is still in its early stages, and there's a lot of work to be done. But I'm excited about the journey ahead, and I hope you'll join me on it. Please check out the [github repository](https://github.com/p4cs-974/verse-editor), and feel free to contribute to the project!
 
-In the near future, I plan to implement support for more advanced markdown features (e.g. mermaid), and proper image uploads through UploadThing.
+For the near future I want to implement some agentic features into the AI assistant, and some refinement for the exporting capabilities, and more styling utilities.
 
-After that, I want to implement some AI features to assist in writing and styling the documents (like [what I used to do in VS Code](#tool-3) with Copilot).
+Check [Verse](https://verse.p4cs.com.br) out, and let me know what you think. The first $2 are on me!

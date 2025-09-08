@@ -6,8 +6,15 @@
     <description>Recent content on P4CS Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Aug 2025 00:06:51 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 06:22:57 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Lançamento do Primeiro iMac</title>
+      <link>http://localhost:1313/first-imac-launch/</link>
+      <pubDate>Sun, 31 Aug 2025 06:22:57 +0000</pubDate>
+      <guid>http://localhost:1313/first-imac-launch/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Introducing Verse</title>
       <link>http://localhost:1313/projects/introducing-verse/</link>

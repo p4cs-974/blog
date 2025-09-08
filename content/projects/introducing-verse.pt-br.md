@@ -66,6 +66,6 @@ E bem nessa época, li o [artigo](https://newsletter.posthog.com/p/the-hidden-be
 
 O app ainda está nos seus estágios iniciais, e há muito trabalho a ser feito. Mas estou animado com a jornada à frente, e espero que você se junte a mim nela! Confira o [repositório do github](https://github.com/p4cs-974/verse-editor), e sinta-se à vontade para contribuir com o projeto.
 
-No futuro próximo, planejo implementar suporte para mais recursos avançados do markdown (ex: mermaid) e upload de imagens adequado, através do UploadThing.
+A curto prazo, quero implementar umas funcionalidades de uso agêntico no assistente de IA, e alguns polimentos no Export, além de umas funcionalidades de estilização.
 
-Depois disso, quero implementar alguns recursos de IA para auxiliar na escrita e estilização dos documentos (como [o que eu costumava fazer no VS Code](#ferramenta-3) com o Copilot).
+Teste o [Verse](https://verse.p4cs.com.br) e me diga o que você achou. Os primeiros $2 são por minha conta!
