@@ -5,6 +5,10 @@ title = 'Apresentando, Verse'
 thumbnail = 'verseweb'
 +++
 
+# O que é o Verse?
+
+{{< figure src="/img/verseweb.png" alt="Captura de tela do app web Verse" >}}
+
 Verse é um editor de Markdown web leve, local-first e de código aberto, construído com foco na objetividade e agilidade. Você pode testar em [verse.p4cs.com.br](https://verse.p4cs.com.br).
 
 # Por que Markdown?
@@ -16,7 +20,6 @@ E então veio o markdown.
 {{< /lead >}}
 
 Com a ascensão da IA nos últimos anos, o markdown inevitavelmente ganhou popularidade, já que é a "linguagem" em que as IAs nos respondem. Quando comecei a usá-lo, fiquei impressionado com sua simplicidade e eficácia. Para mim, ele lembrava o poder do HTML ou LaTeX, mas com uma curva de aprendizado muito mais suave e menor complexidade. Então, decidi adotá-lo como meu formato principal de escrita.
-# O que é o Verse?
 
 # O problema
 
