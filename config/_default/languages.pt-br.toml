@@ -9,7 +9,7 @@ title = "P4CS Blog"
 [params]
   dateFormat = "02 de January, 2006"
 
-  mainSections = ["projetos", "ideias"]
+  mainSections = ["projects", "thoughts"]
   # description = "My awesome website"
 
 [params.author]
